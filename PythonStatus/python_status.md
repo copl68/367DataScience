@@ -1,0 +1,20 @@
+- Variables, types, values, assignment: Pretty good - Confident that I know how to create and use each of these
+- Lists: Familiar - I am good with the idea of lists and how they work, indexing them, and creating them in simple cases
+- Dictionaries: Familiar - I understand how to create them and access they with their key value pairs
+- Sets: Familiar - I understand how to explicitly make simple ones and that they are not ordered
+- Tuples: Familiar - I know that they cannot be changed and are another data type, but that is about the extent of my knowledge
+- Basic operators: Pretty Good - I understand how to use all basic operators when coding
+- Strings and string operations: Familiar - I know of various opertors used to create and change strings, but I do not have extensive knowledge of all of them/how to use them
+- Conditionals/If statements:  Pretty Good - I feel confident that I can use these accurately when coding
+- While Loops: Pretty Good - I think that I am able to use these as intended in python
+- For loops: - Pretty Good - I also think that I can use these as intended in python
+- List comprehensions: Unfamiliar - I am unfamiliar with this term. After looking it up, I still dont feel too confident with these
+- Functions: Familiar - I know how to use these for the most part, however I am curious about how we can have multiple constructors 
+- Classes and Objects: Familar - I don't believe that I have used these before in Python, but I have in Java and feel fairly confident there
+- Importing modules: Familiar - I always have to look up how to do it correctly, but I am usually fine after that
+- Using the unittest module and writing assertions: Unfamiliar - I have never done this before and would not know where to begin on my own
+- File handling: Familiar - I can do simple things such as opening, reading, and writing to a text file, but that is all
+- Regular expressions: Unfamiliar - I am unfamiliar with what this is
+- Exception handling (try/except): Familiar - I know the basic ideas of how it works and how to write it, but I dont know all the types of exceptions
+- Decorators: Unfamiliar - I know that they are the "@" keywords above functions, but I dont really know what they do otherwise
+- Lambdas: Unfamiliar - I THINK they are like functions that can be stored in a variable instead, but that is all I know. 
